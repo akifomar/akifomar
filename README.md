@@ -123,24 +123,3 @@ Developing programming fundamentals while exploring:
 <img src="https://img.shields.io/badge/AI-111111?style=flat-square">
 <img src="https://img.shields.io/badge/Automation-111111?style=flat-square">
 </p>
-
----
-
-## `projects/`
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 01 · Minimal Calculator
-
-A clean calculator built from scratch to practise JavaScript logic, DOM interaction, and interface design.
-
-**Stack**
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://akifomar.github.io/minimal-cal
