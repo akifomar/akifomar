@@ -1,36 +1,146 @@
-# Hi, I'm Akif Omar
+<div align="center">
 
-Computer Science Engineering student at Bennett University, building practical skills in networking, Linux, Python, AI, and web development.
+# AKIF OMAR
 
-I enjoy understanding how systems work, solving security challenges, and turning what I learn into small, useful projects.
+### `Computer Science Engineering Student` · `Developer` · `Cybersecurity Enthusiast`
 
-## Current focus
+<p>
+  <a href="https://github.com/akifomar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/akifomar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-- Computer networks and network security
-- Linux and operating systems
-- Python and AI fundamentals
-- Frontend projects with HTML, CSS, and JavaScript
-- Documenting my learning through projects and technical writing
+<p>
+  <i>Building. Breaking. Understanding. Improving.</i>
+</p>
 
-## Featured projects
+</div>
 
-| Project | What it is |
-| --- | --- |
-| [Minimal Calculator](https://akifomar.github.io/minimal-calculator/) | A clean beginner-friendly calculator built with HTML, CSS, and JavaScript |
-| [Network Fundamentals](https://akifomar.github.io/network-fundamentals/) | An interactive TCP/IP learning guide with a visual packet path |
-| [Study Sprint](https://akifomar.github.io/study-planner/) | A local-first study planner with focus blocks and browser storage |
+---
 
-## Education
+## `whoami`
 
-**Bennett University** — Bachelor’s Degree in Computer Science Engineering, 2026–Present
+```text
+Akif Omar
+Computer Science Engineering @ Bennett University
 
-## Certificate
+Interested in:
+→ Software Development
+→ Cybersecurity
+→ Computer Networks
+→ Linux & Operating Systems
+→ Python & AI
+→ Web Development
 
-**Problem Solving Using Computational Thinking** — September 2026
+Currently:
+→ Learning
+→ Building
+→ Experimenting
+→ Documenting
+```
 
-## Find me online
+I’m a Computer Science Engineering student interested in understanding how technology works beyond the surface.
 
-- [LinkedIn](https://www.linkedin.com/in/akifomar)
-- [GitHub](https://github.com/akifomar)
+I learn best by building things, breaking them, figuring out why they broke, and then improving them.
 
-I’m learning in public, one practical project at a time.
+My current direction sits around the intersection of **development, systems, networking, and cybersecurity**, while I continue strengthening my core computer science fundamentals.
+
+---
+
+## `./focus`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Development
+
+Building practical applications while developing stronger foundations in:
+
+`HTML` `CSS` `JavaScript` `Python`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity
+
+Exploring:
+
+`Networking` `TCP/IP` `Linux` `Security Fundamentals`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Systems
+
+Learning how computers work underneath the interface:
+
+`Linux` `Operating Systems` `Processes` `Networks`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 AI & Python
+
+Developing programming fundamentals while exploring:
+
+`Python` `Automation` `AI Fundamentals`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `tech-stack`
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Python HTML CSS JavaScript">
+</p>
+
+### Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Linux Git GitHub VS Code">
+</p>
+
+### Exploring
+
+<p>
+<img src="https://img.shields.io/badge/Computer_Networks-111111?style=flat-square">
+<img src="https://img.shields.io/badge/TCP%2FIP-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square">
+<img src="https://img.shields.io/badge/AI-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Automation-111111?style=flat-square">
+</p>
+
+---
+
+## `projects/`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 01 · Minimal Calculator
+
+A clean calculator built from scratch to practise JavaScript logic, DOM interaction, and interface design.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://akifomar.github.io/minimal-cal
