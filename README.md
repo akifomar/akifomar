@@ -1,160 +1,108 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=210&text=AKIF%20OMAR&fontSize=68&fontColor=f5f5f5&fontAlignY=44&desc=DEVELOPMENT%20%2F%20SYSTEMS%20%2F%20SECURITY&descSize=16&descAlignY=70" width="100%" alt="Akif Omar, Development / Systems / Security">
 
-  <br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:064E3B,100:6D28D9&height=240&section=header&text=AKIF%20OMAR&fontSize=68&fontColor=F8FAFC&fontAlignY=36&desc=WEB%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20SECURITY&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Akif Omar — web, systems, security" />
 
-  <samp>CSE @ BENNETT UNIVERSITY &nbsp; / &nbsp; CYBERSECURITY SPECIALISATION</samp>
+<samp>COMPUTER SCIENCE @ BENNETT UNIVERSITY &nbsp; / &nbsp; CYBERSECURITY SPECIALISATION</samp>
 
-  <h3>I build interfaces. I want to understand the systems behind them.</h3>
+### I build interfaces—and keep digging until I understand the system underneath.
 
-  <p>
-    Student developer exploring web applications, Python and the connections<br>
-    between software development, networking and cybersecurity.
-  </p>
+Student developer making small, useful web projects while building foundations in Python, Linux, networking and cybersecurity.
 
-  <a href="https://github.com/akifomar?tab=repositories"><strong>Explore my code ↗</strong></a>
-  &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/akifomar/"><strong>Connect on LinkedIn ↗</strong></a>
+[**Explore my work ↗**](https://github.com/akifomar?tab=repositories) &nbsp; · &nbsp; [**Connect on LinkedIn ↗**](https://www.linkedin.com/in/akifomar/)
+
 </div>
 
-<br>
+---
 
 <table>
-  <tr>
-    <td width="65%" valign="top">
-      <samp>01 / THE DEVELOPER</samp>
-      <h2>From an idea to a working screen.</h2>
-      <p>
-        I am learning software development by building small,
-        practical applications. My projects give me a reason
-        to work through interface design, application logic
-        and the details that make something usable.
-      </p>
-      <p>
-        My longer term direction connects development with
-        systems and security, understanding what I build
-        well enough to improve and protect it.
-      </p>
-    </td>
-    <td width="35%" valign="top">
-      <samp>02 / CURRENT TOOLKIT</samp>
-      <h3>Web development</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="44" alt="HTML, CSS and JavaScript">
-      <h3>Learning next</h3>
-      <img src="https://skillicons.dev/icons?i=python,linux&theme=dark" height="44" alt="Learning Python and Linux">
-      <p><sub>Building foundations through practice.</sub></p>
-    </td>
-  </tr>
+<tr>
+<td width="58%" valign="top">
+
+### ✳ &nbsp; BUILDING IN PUBLIC
+
+I learn by shipping small applications: sketch the idea, make the interface work, then understand the decisions behind it. My longer-term direction brings software development together with systems and security.
+
+</td>
+<td width="42%" valign="top">
+
+### ⌘ &nbsp; TOOLKIT
+
+**Using in projects**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="38" alt="HTML, CSS and JavaScript" />
+
+**Learning now**
+
+<img src="https://skillicons.dev/icons?i=python,linux&theme=dark" height="38" alt="Python and Linux" />
+
+<sub>Networking · TCP/IP · cybersecurity fundamentals</sub>
+
+</td>
+</tr>
 </table>
 
-<br>
-
-<h2>◈ &nbsp; The build shelf</h2>
-<p><samp>SMALL APPLICATIONS / CONCRETE LEARNING</samp></p>
+## ◈ &nbsp; Selected builds
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <samp>BUILD / 001</samp>
-      <h3>⌨ &nbsp; Minimal Calculator</h3>
-      <p>
-        A focused calculator project exploring JavaScript
-        logic, user input and browser interaction.
-      </p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://akifomar.github.io/minimal-calculator/"><strong>Launch calculator ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <samp>BUILD / 002</samp>
-      <h3>◎ &nbsp; Network Fundamentals</h3>
-      <p>
-        An interactive TCP/IP learning guide that uses a
-        visual packet path to explain networking concepts.
-      </p>
-      <p><code>JavaScript</code> <code>TCP/IP</code> <code>Learning tool</code></p>
-      <a href="https://akifomar.github.io/network-fundamentals/"><strong>Follow the packet ↗</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <samp>BUILD / 003</samp>
-      <h3>◷ &nbsp; Study Sprint</h3>
-      <p>
-        A study planner combining focused study blocks,
-        task management and storage in the browser.
-      </p>
-      <p><code>JavaScript</code> <code>Local Storage</code> <code>Productivity</code></p>
-      <a href="https://akifomar.github.io/study-planner/"><strong>Plan a sprint ↗</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <samp>BEHIND THE BUILDS</samp>
-      <h3>↗ &nbsp; What I want to get better at</h3>
-      <p>
-        Clearer application logic.<br>
-        Interfaces that are easy to use.<br>
-        Understanding errors instead of guessing.<br>
-        Explaining the decisions behind my code.
-      </p>
-      <a href="https://github.com/akifomar?tab=repositories"><strong>Browse the work ↗</strong></a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 01 &nbsp; / &nbsp; Minimal Calculator
+
+A clean browser calculator exploring JavaScript logic, input handling and responsive UI.
+
+<sub>HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; JavaScript</sub>
+
+[**View project ↗**](https://github.com/akifomar/minimal-calculator) &nbsp;·&nbsp; [Live demo](https://akifomar.github.io/minimal-calculator/)
+
+</td>
+<td width="50%" valign="top">
+
+#### 02 &nbsp; / &nbsp; Network Fundamentals
+
+An interactive guide that traces a packet through the TCP/IP stack.
+
+<sub>JavaScript &nbsp;·&nbsp; TCP/IP &nbsp;·&nbsp; Learning tool</sub>
+
+[**View project ↗**](https://github.com/akifomar/network-fundamentals) &nbsp;·&nbsp; [Explore the packet path](https://akifomar.github.io/network-fundamentals/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 03 &nbsp; / &nbsp; Study Sprint
+
+A local-first study planner for focused blocks, tasks and browser-based storage.
+
+<sub>JavaScript &nbsp;·&nbsp; Local storage &nbsp;·&nbsp; Productivity</sub>
+
+[**View project ↗**](https://github.com/akifomar/study-planner) &nbsp;·&nbsp; [Plan a sprint](https://akifomar.github.io/study-planner/)
+
+</td>
+<td width="50%" valign="top">
+
+#### 04 &nbsp; / &nbsp; The next layer
+
+Python and Linux foundations. Better debugging. Clearer application logic. More secure-by-design thinking.
+
+<sub>LEARNING THROUGH PRACTICE</sub>
+
+[**Browse all repositories ↗**](https://github.com/akifomar?tab=repositories)
+
+</td>
+</tr>
 </table>
-
-<br>
-
-<h2>◈ &nbsp; Below the interface</h2>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>01 / Development</h3>
-      <p>
-        Strengthening Python and programming fundamentals,
-        alongside practical web development.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>02 / Systems</h3>
-      <p>
-        Exploring Linux, operating systems and how data
-        travels across computer networks.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>03 / Security</h3>
-      <p>
-        Learning cybersecurity fundamentals and how
-        software decisions affect system security.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<details>
-  <summary><strong>＋ &nbsp; Beyond the code</strong></summary>
-  <br>
-  <p>
-    At Bennett University, I am a member of the Data & Computing Club
-    and serve as a batch representative. I also participated in
-    BU SIH 2026, the university's internal Smart India Hackathon.
-  </p>
-  <p>
-    I am interested in collaborating on small web applications,
-    useful learning tools and beginner Python projects.
-  </p>
-</details>
-
-<br>
 
 <div align="center">
-  <hr>
-  <br>
-  <samp>BUILD SOMETHING USEFUL. UNDERSTAND WHY IT WORKS.</samp>
-  <br><br>
-  <a href="https://www.linkedin.com/in/akifomar/">LinkedIn ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/akifomar?tab=repositories">Repositories ↗</a>
-  <br><br>
+
+---
+
+<samp>MAKE IT USEFUL &nbsp; / &nbsp; UNDERSTAND WHY IT WORKS</samp>
+
+[GitHub](https://github.com/akifomar) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/akifomar/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,55:064E3B,100:0B1220&height=100&section=footer" width="100%" alt="" />
+
 </div>
